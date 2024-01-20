@@ -1,4 +1,4 @@
-[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/05/Top-Software-Developer-Skills-to-Learn-This-Year-for-Tech-Jobs-scaled.jpg)]
+[![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/05/Top-Software-Developer-Skills-to-Learn-This-Year-for-Tech-Jobs-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
 <h3 align="center">A passionate backend Django developer from India</h3>
 <h3 align="center">Currently working at Knowl Labs as an Software Developer Intern</h3>
