@@ -1,17 +1,14 @@
-![MasterHead](https://www.turing.com/blog/wp-content/uploads/2022/05/Top-Software-Developer-Skills-to-Learn-This-Year-for-Tech-Jobs-scaled.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
-<h3 align="center">A passionate backend Django developer from India</h3>
-<h3 align="center">Currently working at Knowl Labs as an Software Developer Intern</h3>
-<h3 align="center">Final year MCA student</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">Internship experience at Knowl, Bangalore</h3>
+<h3 align="center">MCA, Vellore Institute of Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning **Django rest framework and Advance Django**
 
-- 👨‍💻 All of my projects are available at [https://resplendent-paprenjak-be5b85.netlify.app/](https://resplendent-paprenjak-be5b85.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sparkly-mochi-664f87.netlify.app/]
 
-- 📝 I regularly write articles on [Creating a blog website(Under development)]
-
-- 💬 Ask me about **Django, APIs, API testing, Core Java**
+- 💬 Ask me about **Django, APIs, API testing, Core Java, Python and Database**
 
 - 📫 How to reach me **harshtrivedi1400@gmail.com**
 
