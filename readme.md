@@ -9,10 +9,12 @@
 
 <img alt="Visits" src="https://visitcount.itsvg.in/api?id=harsh-trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
-🎓 MCA Graduate (Class of 2024) from Vellore Institute of Technology — CGPA: 8.88
-👨‍💻 Explore my Projects: Portfolio Website
-💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
-📫 Connect with Me: harshtrivedi1400@gmail.com
+## About
+
+- 🎓 MCA Graduate (Class of 2024) from Vellore Institute of Technology — CGPA: 8.88
+- 👨‍💻 Explore my Projects: [Portfolio Website](https://sparkly-mochi-664f87.netlify.app/)
+- 💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
+- 📫 Connect with Me: harshtrivedi1400@gmail.com
 
 ## Work Experience
 
