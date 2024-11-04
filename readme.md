@@ -13,8 +13,8 @@
 ## About
 
 - 🎓 MCA Graduate (2024) from Vellore Institute of Technology - CGPA: 8.88
-- 🔗 Resume Link: [Resume](https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link)
-- 👨‍💻 Explore my Projects: [Portfolio Website](https://sparkly-mochi-664f87.netlify.app/)
+- 🔗 Resume Link: <a href="https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link" target="_blank">Resume</a>
+- 👨‍💻 Explore my Projects: <a href="https://sparkly-mochi-664f87.netlify.app/" target="_blank">Portfolio Website</a>
 - 💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
 - 📫 Connect with Me: harshtrivedi1400@gmail.com
 
@@ -22,7 +22,7 @@
 
 | 🏢 Company              | 💼 Role                    | 🕰️ Duration            | 🔗 Internship Completion Certificate                                  |
 |-------------------------|----------------------------|------------------------|-----------------------------------------------------------------------|
-| Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | [Link](https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view) |
+| Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | <a href="https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view" target="_blank">Link</a> |
 
 
 ## 🤝 Connect with me
