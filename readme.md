@@ -11,7 +11,8 @@
 
 ## About
 
-- 🎓 MCA Graduate (Class of 2024) from Vellore Institute of Technology — CGPA: 8.88
+- 🎓 MCA Graduate (Class of 2024) from Vellore Institute of Technology - CGPA: 8.88
+- 🔗 Resume Link: [Resume](https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link)
 - 👨‍💻 Explore my Projects: [Portfolio Website](https://sparkly-mochi-664f87.netlify.app/)
 - 💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
 - 📫 Connect with Me: harshtrivedi1400@gmail.com
