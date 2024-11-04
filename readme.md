@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Harsh Trivedi</h1><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&random=false&width=435&lines=Backend+Developer;MCA+Graduate;YouTuber)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Harsh Trivedi 👩🏻‍💻</h1><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&random=false&width=435&lines=Backend+Developer;MCA+Graduate;YouTuber)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <img alt="Visits" src="https://visitcount.itsvg.in/api?id=harsh-trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
-- 👨‍💻 All of my projects are available at [https://sparkly-mochi-664f87.netlify.app/]
-
-- 💬 Ask me about **Django, Core Java, C, Python, APIs, API testing, content creation, Programming and Databases**
-
-- 📫 How to reach me **harshtrivedi1400@gmail.com**
-
+🎓 MCA Graduate (Class of 2024) from Vellore Institute of Technology — CGPA: 8.88
+👨‍💻 Explore my Projects: Portfolio Website
+💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
+📫 Connect with Me: harshtrivedi1400@gmail.com
 
 ## Work Experience
 
-| 🏢 Company                          | 💼 Role              | 🕰️ Duration         |
-| ----------------------------------- | -------------------- | ------------------- |
-| [Knowl Labs Pvt Ltd](https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view) | Software Development Intern | Dec 2023 - Mar 2024 |
+| 🏢 Company                          | 💼 Role              | 🕰️ Duration         | 🔗 Internship completion certificate         |
+| ----------------------------------- | -------------------- | ------------------- | | ------------------- |
+| Knowl Labs Pvt Ltd | Software Development Intern | Dec 2023 - Mar 2024 | [Link](https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view) | 
 
 
 <h3 align="left">Connect with me:</h3>
