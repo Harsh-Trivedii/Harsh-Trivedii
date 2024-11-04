@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&center=true&vCenter=true&width=435&lines=Backend+Developer;MCA+Graduate;YouTuber" alt="Typing SVG">
   </a>
 </p>
-<img align="right" alt="Coding" width="300" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<!--<img align="right" alt="Coding" width="300" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">-->
 
 <img alt="Visits" src="https://visitcount.itsvg.in/api?id=harsh-trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
