@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=20&pause=1000&color=3547D4&center=true&vCenter=true&width=435&lines=Backend+Developer;MCA+Graduate;YouTuber" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=435&lines=Backend+Developer%2C+Content+Creator%2C+YouTuber" alt="Typing SVG">
+
   </a>
 </p>
 <!--<img align="right" alt="Coding" width="300" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">-->
