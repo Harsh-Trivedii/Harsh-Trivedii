@@ -36,9 +36,9 @@
 
 ## 📈 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-trivedii&show_icons=true&locale=en&layout=compact" alt="harsh-trivedii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Trivedii&show_icons=true&locale=en&layout=compact" alt="harsh-trivedii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-trivedii&show_icons=true&locale=en" alt="harsh-trivedii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Trivedii&show_icons=true&locale=en" alt="harsh-trivedii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-trivedii&" alt="harsh-trivedii" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Trivedii&" alt="harsh-trivedii" /></p>
 
