@@ -23,6 +23,7 @@
 | 🏢 Company              | 💼 Role                    | 🕰️ Duration            | 🔗 Internship Completion Certificate                                  |
 |-------------------------|----------------------------|------------------------|-----------------------------------------------------------------------|
 | Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | <a href="https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view" target="_blank">Link</a> |
+| LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Ongoing     |
 
 
 ## 🤝 Connect with me
