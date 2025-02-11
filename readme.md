@@ -8,7 +8,7 @@
 </p>
 <!--<img align="right" alt="Coding" width="300" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">-->
 
-<img alt="Visits" src="https://visitcount.itsvg.in/api?id=harsh-trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
+<img alt="Visits" src="https://visitcount.itsvg.in/api?id=Harsh-Trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
 ## About
 
@@ -84,9 +84,9 @@
 
 ## 📈 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Trivedii&show_icons=true&locale=en&layout=compact" alt="harsh-trivedii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Trivedii&show_icons=true&locale=en&layout=compact" alt="Harsh-Trivedii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Trivedii&show_icons=true&locale=en" alt="harsh-trivedii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Trivedii&show_icons=true&locale=en" alt="Harsh-Trivedii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Trivedii&" alt="harsh-trivedii" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Trivedii&" alt="Harsh-Trivedii" /></p>
 
