@@ -8,14 +8,13 @@
 </p>
 <!--<img align="right" alt="Coding" width="300" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">-->
 
-<img alt="Visits" src="https://visitcount.itsvg.in/api?id=Harsh-Trivedii&label=Profile%20Impressions%20&color=1&icon=3&pretty=false">
 
 ## About
-
+- 👨🏻‍💻 Graduate Engineer Trainee at LTI Mindtree
 - 🎓 MCA Graduate (2024) from Vellore Institute of Technology - CGPA: 8.88
 - 🔗 Resume Link: <a href="https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link" target="_blank">Resume</a>
 - 👨‍💻 Explore my Projects: <a href="https://sparkly-mochi-664f87.netlify.app/" target="_blank">Portfolio Website</a>
-- 💬 Skills & Expertise: Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
+- 💬 Skills & Expertise: .NET Web API, .NET Core MVC, C#, Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
 - 📫 Connect with Me: harshtrivedi1400@gmail.com
 
 ## 💼 Work Experience
@@ -23,7 +22,7 @@
 | 🏢 Company              | 💼 Role                    | 🕰️ Duration            | 🔗 Internship Completion Certificate                                  |
 |-------------------------|----------------------------|------------------------|-----------------------------------------------------------------------|
 | Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | <a href="https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view" target="_blank">Link</a> |
-| LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Ongoing     |
+| LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Mar 2025     |
 
 
 ## 🤝 Connect with me
