@@ -10,7 +10,7 @@
 
 
 ## About
-- 👨🏻‍💻 Graduate Engineer Trainee at LTI Mindtree
+- 👨🏻‍💻 Software Engineer at LTI Mindtree
 - 🎓 MCA Graduate (2024) from Vellore Institute of Technology - CGPA: 8.88
 - 🔗 Resume Link: <a href="https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link" target="_blank">Resume</a>
 - 👨‍💻 Explore my Projects: <a href="https://sparkly-mochi-664f87.netlify.app/" target="_blank">Portfolio Website</a>
