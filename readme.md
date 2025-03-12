@@ -19,10 +19,11 @@
 
 ## 💼 Work Experience
 
-| 🏢 Company              | 💼 Role                    | 🕰️ Duration            | 🔗 Internship Completion Certificate                                  |
+| 🏢 Company              | 💼 Role                    | 🕰️ Duration            | 🔗 Completion Certificate                                  |
 |-------------------------|----------------------------|------------------------|-----------------------------------------------------------------------|
 | Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | <a href="https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view" target="_blank">Link</a> |
-| LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Mar 2025     |
+| LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Mar 2025     |  <a href="https://drive.google.com/file/d/1Y7B3HK2Flik8Yv7yR0eMPgV02PXOqv9C/view?usp=sharing" target="_blank">Link</a> |
+| LTIMindtree             | Software Engineer           | Mar 2025 - Present      |                                                                     |
 
 
 ## 🤝 Connect with me
