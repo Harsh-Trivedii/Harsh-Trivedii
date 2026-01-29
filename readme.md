@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=435&lines=Backend+Developer+from+India" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=435&lines=Data+Engineer+at+LTI Mindtree" alt="Typing SVG">
 
   </a>
 </p>
@@ -10,11 +10,11 @@
 
 
 ## About
-- 👨🏻‍💻 Software Engineer at LTI Mindtree
+- 👨🏻‍💻 Data Engineer at LTI Mindtree
 - 🎓 MCA Graduate (2024) from Vellore Institute of Technology - CGPA: 8.88
 - 🔗 Resume Link: <a href="https://drive.google.com/file/d/1sg6s8LjmvehhBJR2m246B5Dzxc8l7OtH/view?usp=drive_link" target="_blank">Resume</a>
 - 👨‍💻 Explore my Projects: <a href="https://sparkly-mochi-664f87.netlify.app/" target="_blank">Portfolio Website</a>
-- 💬 Skills & Expertise: .NET Web API, .NET Core MVC, C#, Django, Core Java, C, Python, REST APIs, API Testing, Content Creation, Programming, and Databases
+- 💬 Skills & Expertise: PowerBi, Snowflake, ADF, Azure, Python, SQL, .NET Web API, .NET Core MVC, C#, Django, Core Java, C, REST APIs, API Testing, Content Creation, Programming, and Databases
 - 📫 Connect with Me: harshtrivedi1400@gmail.com
 
 ## 💼 Work Experience
@@ -23,7 +23,7 @@
 |-------------------------|----------------------------|------------------------|-----------------------------------------------------------------------|
 | Knowl Labs Pvt Ltd      | Software Development Intern | Dec 2023 - Mar 2024    | <a href="https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view" target="_blank">Link</a> |
 | LTIMindtree             | Graduate Engineer Trainee   | Dec 2024 - Mar 2025     |  <a href="https://drive.google.com/file/d/1Y7B3HK2Flik8Yv7yR0eMPgV02PXOqv9C/view?usp=sharing" target="_blank">Link</a> |
-| LTIMindtree             | Software Engineer           | Mar 2025 - Present      |                                                                     |
+| LTIMindtree             | Data Engineer           | Mar 2025 - Present      |                                                                     |
 
 
 ## 🤝 Connect with me
