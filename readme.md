@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&lines=Data+Engineer+at+LTIMindtree;Snowflake+%7C+Azure+%7C+Python+%7C+SQL;Building+Secure+and+Scalable+Data+Platforms" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=500&size=24&pause=1000&color=1D4ED8&center=true&vCenter=true&width=700&lines=Data+Engineer+at+LTM;Snowflake+%7C+Azure+%7C+Python+%7C+SQL;Building+Secure+and+Scalable+Data+Platforms" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Harsh Trivedi**, a **Data Engineer at LTIMindtree**, working on **cloud-based data platforms, secure data engineering, and AI-enabled analytics solutions**.
+I’m **Harsh Trivedi**, a **Cloud/AI Data Engineer at LTM**, working on **cloud-based data platforms, secure data engineering, and AI-enabled analytics solutions**.
 
 I have hands-on experience designing and maintaining **end-to-end data workflows** using **Snowflake and Azure**, with a strong focus on **security, automation, and scalability**. My work involves transforming complex and unstructured data into structured, analytics-ready formats while adhering to enterprise security and compliance standards.
 
 I bring a solid backend foundation (**.NET Core, APIs, Django**) which helps me build robust, production-grade data systems beyond just pipelines.
 
-🏆 **Rising Star (Young Achiever) Award – Q3 FY26**, LTIMindtree  
+🏆 **Rising Star (Young Achiever) Award – Q3 FY26**, LTM  
 🎓 MCA (2024), **Vellore Institute of Technology, Bhopal** — CGPA **8.88**
 
 ---
@@ -32,7 +32,7 @@ I bring a solid backend foundation (**.NET Core, APIs, Django**) which helps me 
 
 | 🏢 Company | 💼 Role | 🕰️ Duration | 🔗 Certificate |
 |-----------|--------|-------------|----------------|
-| **LTIMindtree** | Data Engineer | Mar 2025 – Present | — |
+| **LTM** | Data Engineer | Mar 2025 – Present | — |
 | **LTIMindtree** | Graduate Engineer Trainee (Full Stack) | Dec 2024 – Mar 2025 | [Link](https://drive.google.com/file/d/1Y7B3HK2Flik8Yv7yR0eMPgV02PXOqv9C/view) |
 | **Knowl Labs Pvt Ltd** | Software Development Intern | Dec 2023 – Mar 2024 | [Link](https://drive.google.com/file/d/1DWhgTng6wP1JhCd1fZgHd7BoGO6AJ65p/view) |
 
